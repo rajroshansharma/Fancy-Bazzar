@@ -1,0 +1,117 @@
+body{
+	background-color: #e6eeff;
+}
+.Back{
+	width: 100px;
+	height: 50px;
+	border-style: none;
+	border-radius: 7px;
+	font-size: 25px;
+	color: #e6eeff;
+	font-family: arial;
+	background-color:#e6eeff;
+
+}
+
+@font-face{
+            font-family:raj;
+            src:url("great_fonts.ttf");
+        }
+.tit1o1{
+	font-family: raj;
+	font-size: 37px;
+	padding-left: 660px;
+
+}
+.about1o1{
+	padding-left: 300px;
+	font-size:20px;
+	font-family: arial;
+}
+.para1o1{
+	padding-left: 300px;
+	padding-right: 300px;
+	padding-top: 40px;
+	padding-bottom: 20px;
+	font-size: 17px;
+	opacity: 0.9;
+	font-family:arial;
+}
+
+
+
+
+
+
+
+
+ .merchant{
+            padding-left: 0px;
+            width: 50%;
+            float: right;
+            background-color:  #f2f2f2;
+            
+        }
+        .sencon{
+            font-family: arial;
+            padding-top: 40px;
+            padding-left: 370px;
+            padding-bottom: 15px;
+        }
+        .side88{
+            padding-left: 400px;
+            font-size: 15px;
+            font-family: arial;
+            padding-top: 10px;
+
+        }
+         #but356{
+            padding-bottom: 24px;
+        }
+         .limno{
+            padding-top: 0px;
+            float: right;
+            width: 50%
+        }
+        .list_social{
+            list-style: none;
+            opacity: 0.8;
+            display: flex;
+            background-color:  #f2f2f2;
+            padding-left: 250px;
+            padding-bottom: 20px;
+
+        }
+
+        #sconsi{
+            font-family: arial;
+            font-size: 20px;
+            padding-left: 235px;
+            padding-top: 80px;
+        }
+
+        .right339{
+            background-color: #f2f2f2;
+        }
+         .copyright{
+            padding-left: 40px;
+            padding-top: 200px;
+            padding-bottom: 10px;
+            font-size: 15px;
+            font-family: arial;
+        }
+        .img1o1{
+        	width:800px;
+        	height: 400px;
+        	padding-left: 360px;
+
+        }
+        .bab1o1 a{
+            text-decoration: none;
+            color: #8080ff;
+            font-size: 20px;
+        }
+        .bab1o1{
+            padding-left: 15px;
+            padding-top: 15px;
+        }

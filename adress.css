@@ -1,0 +1,48 @@
+body{
+	background-color: #e6eeff;
+}
+@font-face{
+            font-family:raj;
+            src:url("great_fonts.ttf");
+        }
+#title1o1{
+	font-family: raj;
+	font-size: 37px;
+	padding-left: 660px;
+}
+#add1o1{
+	padding-left: 300px;
+	font-size:20px;
+	font-family: arial;
+}
+.para1o1{
+	padding-left: 300px;
+	padding-right: 300px;
+	padding-top: 40px;
+	padding-bottom: 20px;
+	font-size: 17px;
+	opacity: 0.9;
+	font-family:arial;
+}
+.maapad1o1r{
+	padding-left: 300px;
+	padding-bottom: 20px;
+
+}
+#link1o1 a{
+	text-decoration: none;
+	color: #8080ff;
+	font-family: arial;
+	font-size: 20px;
+}
+#link1o1{
+	padding-left: 15px;
+	padding-top: 15px;
+}
+.text1o1{
+	font-size: 20px;
+	font-family: arial;
+	padding-left: 1090px;
+	padding-top: 5px;
+	padding-bottom: 10px;
+}

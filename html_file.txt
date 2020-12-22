@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="project_mall.css" rel="stylesheet"/>
+    <meta charset="UTF-8">
+    <title>pro_mall</title>
+        
+
+   
+</head>
+<body class="bgcl">
+
+<p class ="main1">Fancy bazaar</p>
+
+<section>
+<div class="list">
+    <ul>
+        <li>Home</li>
+        <li>About</li>
+        <li>Update</li>
+        <li>Address</li>
+        <li>Contact</li>
+        <li>Social Media</li>
+    </ul>
+    </div>
+</section>
+
+
+
+<div class="slider">
+    <div class="sliderchild">
+        <div class="imgcon">
+            <p class="same">this is a sample text,this is a sample text <br> this is a sample text</p>
+
+        </div>
+        <div class="imgcon">
+            <p class="same">this is a sample text,this is a sample text <br> this is a sample text</p>
+
+        </div>
+        <div class="imgcon">
+            <p class="same">this is a sample text,this is a sample text <br> this is a sample text</p>
+
+        </div>
+        <div class="imgcon">
+            <p class="same">this is a sample text,this is a sample text <br> this is a sample text</p>
+
+        </div>
+        <div class="imgcon">
+            <p class="same">this is a sample text,this is a sample text <br> this is a sample text</p>
+
+        </div>
+    </div>
+</div>
+<div class="main2">
+    <p id="main2">Fancy Bazaar</p>
+    <p id="welco">welcomes you</p>
+</div>
+<div class="parag">
+    <p class="para1">this is a sample text.this is the sample text.this is a sample text.this is the sample text.this is a sample
+        this is a sample text.this is the sample text.this is a sample text.this is the sample text.this is a sample.this is a sample text.this is the sample text.this is a sample text.this is the sample text.this is a sample.this is a sample text.this is the sample text.this is a sample text.this is the sample text.this is a sample.this is a sample text.this is the sample text.this is a sample text.this is the sample text.this is a samplethis is a sample text.this is the sample text.this is a sample text.this is the sample text.this is a sample.
+    </p>
+</div>
+	<p class="main22">Our Collections</p>
+  
+  	<div class="sample1">
+  		<button type="button" class="butt"></button>
+  	</div>
+  	<div class="sample2">
+  		<button type="button" class="butt"></button>
+  	</div>
+  	<div class="sample3">
+  		<button type="button" class="butt"></button>
+  	</div>
+  	<div class="sample1">
+  		<button type="button" class="butt"></button>
+  	</div>
+  	<div class="sample2">
+  		<button type="button" class="butt"></button>
+  	</div>
+  	<div  class="sample3">
+  		<button type="button" class="butt"></button>
+  	</div>
+
+<div class="more">
+	<p>and many more...</p>
+</div>  
+	
+	<FORM action="insert.php" method="POST">
+		<section class="back">
+  	<div class="main33">
+  	<p>Get update from us.</p>
+  </div>
+  	 <div>
+  		<p class="name323">Name</p>
+  	</div>
+  	<div class="in344in">
+  		<input type="text" name="Name"  placeholder="Name">
+  	</div>
+  	<div>
+  		<p class="name323">Email</p>
+  	</div>
+  	<div class="in344in" id="apce">
+  		<input type="Email" name="mail" placeholder="Mail">
+  	</div>
+  	<div id="submit4">
+  	<button type="submit" form="nameform" value="Submit" class="submit4">Submit</button>
+   </div>
+  </section>
+
+	</FORM>
+  <p id="add21">Address</p>
+  <div class="adtext">
+    <p> This is sample text for adressing.this is sample text for adressing.this is sample text for adressing.
+      this is the adressing tab.this is the adressing tab.this is the adressing tab.this is the adressing tab.
+      this is the adressing tab.this is the adressing tab.this is the adressing tab.this is the adressing tab.this is the adressing tab.this is the adressing tab.to get to the destination  to get maped quickly.
+   this is the adressing tab.this is the adressing tab.this is the adressing tab.this is the adressing tab.
+     this is the adressing tab.this is the adressing tab.this is the adressing tab.this is the adressing tab.<a href="https://www.google.com/maps/place/Maa+Enterprises+RNS+Jio+Centre/@23.5728376,86.2063272,16.59z/data=!4m5!3m4!1s0x39f426587272e5a7:0xbf5940b8c56fc0ee!8m2!3d23.5736009!4d86.2041821">click here</a> this is the</p>
+  </div>
+  <div class="maapad">
+    <a href="https://www.google.com/maps/place/Maa+Enterprises+RNS+Jio+Centre/@23.5728376,86.2063272,16.59z/data=!4m5!3m4!1s0x39f426587272e5a7:0xbf5940b8c56fc0ee!8m2!3d23.5736009!4d86.2041821">
+     <img border="0" alt="adressing" src="maaap.jpg" width="900" height="450">
+       </a>
+  </div>
+  <section class="colorr">
+    <form>
+  <p class="tag289">Email</p>
+  <input type="Email" name="mail" class="mesg52" placeholder="Email">
+  <p class="tag289">Message</p>
+  <input type="Text" name="message" class="mesg52" id="wid67" placeholder="Type your valuable message here"><br><br>
+  <button class="submit">Submit</button>
+</form>
+  </section>
+ 
+</body>
+</html>
